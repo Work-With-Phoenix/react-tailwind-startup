@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="#">
+    <img alt="Work With Phoenix" src="https://github.com/Work-With-Phoenix/gatsby-tailwind-startup/raw/main/src/images/phoenix-logo.svg" width="60" style="margin-top: .8rem"/>
+  </a>
+</p>
+<h1 align="center">
+  React & Tailwindcss Project Startup
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Quick start
 
-## Available Scripts
+1.  **Create a Gatsby site.**
 
-In the project directory, you can run:
+    Clone the project repository to get access to the startup directory.
 
-### `npm start`
+    ```shell
+    # clone the gatsby & tailwind project startup repository
+    git clone -b main https://github.com/Work-With-Phoenix/react-tailwind-startup
+    ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2.  **Start developing.**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    Navigate into your new site’s directory and start it up.
 
-### `npm test`
+    ```shell
+    #copy it to a project dir of your choice
+    cp -r react-tailwind-startup my-project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    #go to the new directory
+    cd my-project
 
-### `npm run build`
+    #install packages
+    npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    #run server
+    npm start
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3.  **Open the code and start customizing!**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Runs the app in the development mode.
+    Open http://localhost:3000 to view it in your browser.
 
-### `npm run eject`
+    The page will reload when you make changes.
+    You may also see any lint errors in the console.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- 4.  **Learn more**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-## Learn More
+    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-### Code Splitting
+## 🚀 Quick start (Gatsby Cloud)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal) -->
